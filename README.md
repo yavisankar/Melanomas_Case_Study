@@ -19,6 +19,7 @@ Problem statement: To build a CNN based model which can accurately detect melano
 Class rebalance plays a key role in the results. 
 CNN with Class rebalance achieves a good accuracy score among train and validation sets. 
 Training score reaches to 88 and validation score reaches to 83 which proves that, no overfitting exits. 
+However, Model has not performed well on the Test unseen data and it got 0.33 as accuracy. Tuning the model by adding more layers / using different optimizers might help to improve the accuracy score.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
